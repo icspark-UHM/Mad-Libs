@@ -1,0 +1,20 @@
+/* Already implemented */
+.container {
+    display: flex; 
+    justify-content: center;
+    flex-wrap: wrap; 
+    gap: 30px; 
+}
+
+/* Individual category styling */
+.category {
+    text-align: center; 
+    width: 30%; 
+}
+
+#output {
+    text-align: center;
+    font-size: 50px;
+}
+
+/* ---- Write code below ---- */
