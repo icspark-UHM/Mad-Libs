@@ -197,7 +197,7 @@ Everyone laughed, and the detective vowed to investigate only serious cases from
 Your time machine malfunctions, and a (HISTORICAL FIGURE) steals your homework escaping to (PLACE)!
 Armed with a (OBJECT), you chase them through time, dodging (PLURAL NOUN) and a (ADJECTIVE 1) dinosaur trying to (VERB) you.
 You finally catch the thief at (EVENT IN TIME) and grab your homework just time.
-Back in class, your teacher, (SILLY NAME), says, "That's the most $(ADJECTIVE 2) excuse ever!" But hey, you got an A!
+Back in class, your teacher, (SILLY NAME), says, "That's the most (ADJECTIVE 2) excuse ever!" But hey, you got an A!
 ```
 - Next ensure that the user has inputted something in all of the 9 variables using `if` and `else` statements.
 - In the `if` statement paste in the following and replace the placeholders with your variable names using `${yourVariableName}`.
