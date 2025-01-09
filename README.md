@@ -63,26 +63,27 @@ Each of those div tags will have a ``<img>``, ``<p>``, and ``<button>`` tags ins
   -->
 ```                                  
 
-- In one of the div tags:
-    - Create a ``<img>`` tag and get `dinner.jpg` from the images folder.
-    - > [!NOTE] 
-      > Remember from week 2 that talks about file paths? Find a file path to go from the images folder then to the `dinner.jpg` image. Once you found the path, put it in `src` of the image tag.
-    - > [!TIP]
-      > You know that you got the correct path when the image is shown on your website.
-    - Set the alt to dinner.
-    - Create a ``<p>`` tag and paste in the following:
-    ```plaintext
-    You have been invited to the most bizarre dinner party in town filled with unexpected twists, peculiar foods, and outrageous events.
-    ```
-    - Create a ``<button>`` tag and inside the tag paste in the following:
-    ```plaintext
-    Generate Dinner Story!
-    ```
-    - We want the button to do something when someone clicks on it so within the button tag, create an onclick event in which when the user clicks the button, it will run a function which will be implemented later, for now leave the onclick event blank. This is what it will look like:
+In one of the div tags:
+- Create a ``<img>`` tag and get `dinner.jpg` from the images folder.
+> [!NOTE] 
+> Remember from week 2 that talks about file paths? Find a file path to go from the images folder then to the `dinner.jpg` image. Once you found the path, put it in `src` of the image tag.
 
-    ```html
-    <button onclick="">Generate Dinner Story!</button>
-    ```
+> [!TIP]
+> You know that you got the correct path when the image is shown on your website.
+- Set the alt to dinner.
+- Create a ``<p>`` tag and paste in the following:
+```plaintext
+You have been invited to the most bizarre dinner party in town filled with unexpected twists, peculiar foods, and outrageous events.
+```
+- Create a ``<button>`` tag and inside the tag paste in the following:
+```plaintext
+Generate Dinner Story!
+```
+- We want the button to do something when someone clicks on it so within the button tag, create an onclick event in which when the user clicks the button, it will run a function which will be implemented later, for now leave the onclick event blank. This is what it will look like:
+
+```html
+<button onclick="">Generate Dinner Story!</button>
+```
 
 <details>
 <summary>Step 2 Solution</summary>
