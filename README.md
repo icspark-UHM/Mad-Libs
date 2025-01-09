@@ -81,7 +81,7 @@ Each of those div tags will have a ``<img>``, ``<p>``, and ``<button>`` tags ins
     - We want the button to do something when someone clicks on it so within the button tag, create an onclick event in which when the user clicks the button, it will run a function which will be implemented later, for now leave the onclick event blank. This is what it will look like:
 
     ```html
-    <button onclick="">Generate Dinner Story</button>
+    <button onclick="">Generate Dinner Story!</button>
     ```
 
 <details>
