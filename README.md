@@ -339,7 +339,7 @@ else
 <summary> Step 11 Solution </summary>
 
 ```js
-//assuming the variables are the same in step 9
+//assuming the variables are the same in step 10
 if (food && smthStrange && adj && animal && verb && obj && funQuote1 && funQuote2)
 {
     //--- implement in step 12 ---\\
@@ -462,7 +462,7 @@ function mystery()
 <summary>Step 14 Solution</summary>
 
 ```js
-//assuming the variables are the same in step 15
+//assuming the variables are the same in step 13
 if (adj && place && sound && silName && obj && noun && name && jobTitle && verb && sub && food)
 {
     document.getElementById("output").innerHTML = `
@@ -530,7 +530,7 @@ function travel()
 <summary>Step 16 Solution</summary>
 
 ```js
-//assuming the variables are the same in step 13
+//assuming the variables are the same in step 15
 if (histFig && place && obj && pluNoun && adj1 && verb && event && silName && adj2)
 {
     document.getElementById("output").innerHTML = `
@@ -581,6 +581,7 @@ You were able to:
 - [ ] JavaScript variables.
 - [ ] JavaScript functions.
 - [ ] If and Else statements.
+- [ ] Understand falsy values.
 - [ ] The AND operator.
 
 For a little something extra you could make the stories longer by adding more variables and modifying the overall story to make it even more funnier. You can do this by simplily changing the text in the if statements in [step 12](#step-12), [step 14](#step-14), and [step 16](#step-16).
