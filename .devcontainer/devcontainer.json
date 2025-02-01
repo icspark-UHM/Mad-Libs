@@ -5,7 +5,8 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "ms-vscode.live-server"
+        "ms-vscode.live-server",
+        "yzhang.markdown-all-in-one"
       ]
     }
   },
